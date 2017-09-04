@@ -11,7 +11,7 @@ double(X) ->
 -include_lib("eunit/include/eunit.hrl").
 
 double_test() ->
-  ?assert(double(12) =:= 24),
-  ?assert(double(0) =:= 0),
-  ?assert(double(111111111111111111111) =:= 222222222222222222222),
-  ?assert(double(1.0) =:= 2.0).
+  ?assertEqual(24, double(12)),
+  ?assertEqual(0, double(0)),
+  ?assertEqual(222222222222222222222, double(111111111111111111111)),
+  ?assertEqual(2.0, double(1.0)).
