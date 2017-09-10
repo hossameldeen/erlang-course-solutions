@@ -40,6 +40,9 @@ process2(P1id) ->
 
 %%--------------------------------------------------------------------
 % See what will happen in Intellij when an undead process is running.
+% Update: found that Intellij's run may terminate although a process
+% is still running. So, always need to test from shell to check
+% graceful termination.
 undead_process_test() ->
   spawn(fun() -> undead_process() end).
 
