@@ -1,4 +1,4 @@
--module(concurrency1).
+-module(concurrency1_ping_pong).
 -author("hossameldeen").
 
 %% API

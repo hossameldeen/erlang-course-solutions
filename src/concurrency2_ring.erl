@@ -2,7 +2,7 @@
 %%% Assumed spec:
 %%%
 %%%-------------------------------------------------------------------
--module(concurrency2).
+-module(concurrency2_ring).
 -author("hossameldeen").
 
 %% API
