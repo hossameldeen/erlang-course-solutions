@@ -21,5 +21,10 @@ Yes, that probably should change after learning stuff like `gen_server`, but sti
 Anyway, probably I don't wanna say that Erlang is like MPI/C, but I want to say that I was a tiny-tiny-bit disappointed in the language-level support for the Actor Model in Erlang.
 
 3) Don't be tricked by Erlang taking the syntax of Prolog. This has nothing of the spirit of Prolog. It's like taking the syntax of Elm to make an imperative language xD.  
-Erlang is not imperative, it's functional. But Prolog is a totally-different paradigm. Stuff like that happen. Probably Erlang author liked Prolog and liked Actor Model, mixed them, and in the process left out the gems of Prolog & took the normal. Not that he should have, it's just a note.
+Erlang is not imperative, it's functional. But Prolog is a totally-different paradigm. Stuff like that happen. Probably Erlang author liked Prolog and liked Actor Model, mixed them, and in the process left out the gems of Prolog & took the unfortunate. Not that he should have, it's just a note.
 
+4) I can't believe I'm saying that, but perhaps having no namespaces may actually be nice. It encourages libraries to be flat instead of having to learns tons of -API-wise- unnecessary abstractions like in Java. But perhaps that's still too early to say given that I haven't needed to use an external library yet. But this point feels promising.
+
+Honestly, I currently don't really like Erlang. It has some very nice ideas, but there're some dislike points. But should finish the course's exercises anyway.
+
+I'm getting really unhappy with my code :'(
