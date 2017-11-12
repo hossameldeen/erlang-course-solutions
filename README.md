@@ -28,3 +28,7 @@ Erlang is not imperative, it's functional. But Prolog is a totally-different par
 Honestly, I currently don't really like Erlang. It has some very nice ideas, but there're some dislike points. But should finish the course's exercises anyway.
 
 I'm getting really unhappy with my code :'(
+
+...
+
+I'm probably not continuing the course. The exercises were nice and I feel more confident now in Erlang but I've lost interest. And since the remaining examples seem to be only about learning new things (which is the expected and good for a language course) and I currently don't have an intention of using these newly-learned things anytime soon, I'm stopping at this point.
