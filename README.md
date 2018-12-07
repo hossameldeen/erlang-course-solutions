@@ -1,3 +1,5 @@
+**This repository has been archived. For any communication regarding it, including the possibility of unarchiving or making updates to it, feel free to open an issue on [archived-repos](https://github.com/hossameldeen/archived-repos).**
+
 Currently, this is directed as communication to myself.
 
 Solutions to the exercises of [erlang.org's course](https://www.erlang.org/course).
